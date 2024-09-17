@@ -2,11 +2,11 @@
   <br />
   <br />
 
-  <h2 align="center">Desinic - Agency website</h2>
+  <h2 align="center">ADZZEST - Get Best Ad Design website</h2>
 
   Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="/index.html"><strong>➥ Live Demo</strong></a>
+  <a href="https://sangrams21.github.io/ADZZEST---Get-Best-Ad-Design/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
